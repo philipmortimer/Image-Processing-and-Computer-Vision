@@ -1,0 +1,7 @@
+path: C:\Users\phili\Documents\University\Third Year\TB1\Image Processing and Computer Vision\Coursework\CW-I-Shape-Detection-Dartboard\Part 3
+train: [synthDataset/train/images, synthDataset/train/labels]
+val: [synthDataset/valid/images, synthDataset/valid/labels]
+test: [synthDataset/test/images, synthDataset/test/labels]
+
+nc: 1
+names: ['Dartboard']
